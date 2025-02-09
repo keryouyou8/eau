@@ -1,4 +1,6 @@
 """
+        Combinaisons de 2 nombres :
+
 Ce script génère et affiche toutes les combinaisons possibles de deux nombres distincts entre 00 et 99.
 - Chaque combinaison est affichée sous la forme '00 01', '00 02', ..., '98 99'.
 - Les nombres sont affichés dans l'ordre croissant et séparés par des espaces.

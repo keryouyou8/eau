@@ -1,4 +1,6 @@
 """
+        Prochain nombre premier :
+
 Ce script affiche le premier nombre premier strictement supérieur au nombre donné en argument.
 - L'utilisateur doit fournir un unique argument, entier positif (N >= 0).
 - En cas d'erreur dans les arguments, le script retourne -1.

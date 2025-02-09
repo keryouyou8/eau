@@ -1,4 +1,6 @@
 """
+        Différence minimum absolue :
+        
 Ce script affiche la plus petite différence entre deux nombres consécutifs dans une liste d'arguments passés par l'utilisateur.
 - L'utilisateur doit fournir au moins deux arguments (nombres entiers).
 - En cas d'erreur dans les arguments, il affiche error et quitte le programme.

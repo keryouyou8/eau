@@ -1,4 +1,6 @@
 """
+        String dans string :
+
 Ce script détermine si une chaîne de caractère se trouve dans une autre.
 - L'utilisateur doit fournir exactement deux arguments (chaînes de caractères).
 - Affiche 'true' si la deuxième chaîne est contenue dans la première, 'false' sinon.

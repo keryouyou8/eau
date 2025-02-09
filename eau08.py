@@ -1,4 +1,6 @@
 """
+        Chiffres only :
+
 Ce script détermine si une chaîne de caractères ne contient que des chiffres.
 - L'utilisateur doit fournir exactement un argument.
 - En cas d'erreur dans les arguments, affiche une erreur et quitte le programme.

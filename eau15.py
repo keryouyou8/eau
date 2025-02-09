@@ -1,4 +1,6 @@
 """
+        Eau : ok
+
 Ce script affiche un message de célébration indiquant la fin de l’Épreuve de l’Eau.
 - L'utilisateur peut fournir un adjectif décrivant son expérience.
 - Si aucun adjectif n'est fourni, le script utilise "technique" par défaut.

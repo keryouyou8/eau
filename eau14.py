@@ -1,4 +1,6 @@
 """
+        Par ordre Ascii :
+
 Ce script trie une liste de caractère selon leur ordre dans la table ASCII.
 - L'utilisateur doit fournir au moins deux arguments (nombres entiers).
 - En cas d'erreur dans les arguments, le programme affiche 'error' et quitte.

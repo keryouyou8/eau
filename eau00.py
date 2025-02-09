@@ -1,4 +1,6 @@
 """
+        Combinaisons de 3 chiffres :
+
 Ce script affiche toutes les combinaisons possibles de trois chiffres distincts dans l'ordre croissant.
 - Chaque combinaison est affichée sous forme de triplet, séparée par des virgules.
 """

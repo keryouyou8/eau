@@ -1,4 +1,6 @@
 """
+        Index wanted :
+
 Ce script affiche l’index de la première occurrence d’un élément recherché dans un tableau constitué des arguments passés en ligne de commande, à l’exception du dernier.
 - Si l’élément n’est pas trouvé, il affiche -1.
 - En cas d'erreur dans les arguments, il affiche error et quitte le programme.

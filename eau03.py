@@ -1,4 +1,6 @@
 """
+        Suite de Fibonacci :
+
 Ce script calcule le N-ième terme de la suite de Fibonacci.
 - L'utilisateur doit fournir un unique argument, entier positif (N >= 0).
 - En cas d'erreur dans les arguments, le script retourne -1.

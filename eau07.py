@@ -1,4 +1,6 @@
 """
+        Majuscule :
+
 Ce script permet de retourner une chaîne de caractère avec une  majuscule en première lettre de chaque mot et le reste en minuscule.
 - L'utilisateur doit fournir exactement un argument (chaîne de caractère).
 - En cas d'erreur dans les arguments, affiche une erreur et quitte le programme.

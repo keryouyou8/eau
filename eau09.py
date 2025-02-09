@@ -1,4 +1,6 @@
 """
+        Entre min et max :
+
 Ce script affiche toutes les valeurs comprises entre deux nombres dans l’ordre croissant. Min inclus, max exclus.
 - L'utilisateur doit fournir exactement deux arguments (nombres entiers).
 - En cas d'erreur dans les arguments, affiche une erreur et quitte le programme.

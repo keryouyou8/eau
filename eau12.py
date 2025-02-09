@@ -1,4 +1,6 @@
 """
+        Tri à bulle :
+
 Ce script trie une liste de nombres à l'aide de l'algorithme du tri à bulle.
 - L'utilisateur doit fournir au moins deux arguments (nombres entiers).
 - En cas d'erreur dans les arguments, le programme affiche 'error' et quitte.

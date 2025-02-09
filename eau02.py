@@ -1,4 +1,6 @@
 """
+        Paramètres à l’envers :
+        
 Ce script affiche les arguments passés en ligne de commande dans l'ordre inverse, un par ligne.
 - En cas d'absence d'arguments ou d'erreur, il retourne 'error'.
 """

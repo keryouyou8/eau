@@ -1,4 +1,6 @@
 """
+        Majuscule sur deux :
+
 Ce script permet de retourner une chaîne de caractère avec une alternance de majuscules et minuscules.
 - L'utilisateur doit fournir exactement un argument (chaîne de caractère).
 - En cas d'erreur dans les arguments, affiche une erreur et quitte le programme.
