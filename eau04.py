@@ -4,7 +4,6 @@ Ce script affiche le premier nombre premier strictement supérieur au nombre don
 - En cas d'erreur dans les arguments, le script retourne -1.
 """
 
-
 import sys
 
 

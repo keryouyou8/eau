@@ -4,7 +4,6 @@ Ce script calcule le N-ième terme de la suite de Fibonacci.
 - En cas d'erreur dans les arguments, le script retourne -1.
 """
 
-
 import sys
 
 

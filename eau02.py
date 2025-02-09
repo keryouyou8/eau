@@ -3,7 +3,6 @@ Ce script affiche les arguments passés en ligne de commande dans l'ordre invers
 - En cas d'absence d'arguments ou d'erreur, il retourne 'error'.
 """
 
-
 import sys
 
 
